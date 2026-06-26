@@ -30,7 +30,7 @@ SplitSnap — A receipt-scanning bill-splitting iOS app, built natively with Swi
 | Project | Description | Stack |
 |---|---|---|
 | **SkillSync** | Skill-sharing platform, published on Google Play | Flutter, Firebase, Microsoft OAuth |
-| **VanGo** | Ride/booking app, published on Google Play | Flutter, Firebase, Stripe, Google Maps |
+| **VanGo** | Ride/booking app | Flutter, Firebase, Stripe, Google Maps |
 | **SplitSnap** | iOS expense-splitting app | SwiftUI, Supabase, Google OAuth |
 
 ---
