@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, I'm Sokty (Tii)
 
-<!--
-**SoktyHeng/soktyheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh CS grad from Assumption University of Thailand (ABAC), specializing in mobile development
+📱 Building cross-platform apps with **Flutter**
+🌱 Currently sharpening my Flutter skills — Riverpod, Dio, REST APIs, clean architecture
+🚀 Co-building **NestAbroad**, a student housing platform for international students
+📍 Based in Phnom Penh, Cambodia — open to mobile dev roles
 
-Here are some ideas to get you started:
+#### 🛠️ Things I've shipped
+- **[SkillSync](#)** — Flutter + Firebase + Microsoft OAuth · Live on Google Play
+- **[VanGo](#)** — Flutter + Firebase + Stripe + Google Maps · Live on Google Play
+- **vango_sp1 / vango-admin** — Dart-based companion repos for VanGo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Tech I work with
+`Flutter` `Dart` `SwiftUI` `Firebase` `Supabase` `Riverpod` `REST APIs` `Stripe` `Google Maps SDK`
+
+#### 📫 Let's connect
+Always happy to talk Flutter, mobile dev, or startup ideas.
