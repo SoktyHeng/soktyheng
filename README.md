@@ -1,18 +1,71 @@
-### Hi there 👋, I'm Sokty (Tii)
+[README.md](https://github.com/user-attachments/files/29372272/README.md)
 
-🎓 Fresh CS grad from Assumption University of Thailand (ABAC), specializing in mobile development
-📱 Building cross-platform apps with **Flutter**
-🌱 Currently sharpening my Flutter skills — Riverpod, Dio, REST APIs, clean architecture
-🚀 Co-building **NestAbroad**, a student housing platform for international students
-📍 Based in Phnom Penh, Cambodia — open to mobile dev roles
+<h1 align="center">👋 Hi, I'm Tii (Sokty Heng)</h1>
 
-#### 🛠️ Things I've shipped
-- **[SkillSync](#)** — Flutter + Firebase + Microsoft OAuth · Live on Google Play
-- **[VanGo](#)** — Flutter + Firebase + Stripe + Google Maps · Live on Google Play
-- **vango_sp1 / vango-admin** — Dart-based companion repos for VanGo
+<h3 align="center">Mobile Developer | Flutter & SwiftUI</h3>
 
-#### 💻 Tech I work with
-`Flutter` `Dart` `SwiftUI` `Firebase` `Supabase` `Riverpod` `REST APIs` `Stripe` `Google Maps SDK`
+<p align="center">
+📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 🎓 Computer Science Graduate, Assumption University of Thailand (ABAC)
+</p>
 
-#### 📫 Let's connect
-Always happy to talk Flutter, mobile dev, or startup ideas.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a fresh CS graduate specializing in **cross-platform mobile development**, building apps with Flutter and native iOS apps with SwiftUI. I enjoy turning ideas into shipped products — from app store releases to startup MVPs — and I'm currently looking for opportunities as a **Mobile / Flutter Developer** in Phnom Penh.
+
+---
+
+### 🛠️ Currently Building
+
+**🏠 NestAbroad** — *A student housing platform connecting international students with landlords*
+Working on product, growth, and pitch strategy for this early-stage startup.
+
+### 📱 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **SkillSync** | Skill-sharing platform, published on Google Play | Flutter, Firebase, Microsoft OAuth |
+| **VanGo** | Ride/booking app, published on Google Play | Flutter, Firebase, Stripe, Google Maps |
+| **SplitSnap** | iOS expense-splitting app | SwiftUI, Supabase, Google OAuth |
+| **Taxi Rental System** | Luxury-themed booking app | Flutter, Riverpod, go_router |
+
+---
+
+### 📚 Currently Learning
+
+- Refreshing **Flutter** fundamentals — Dart null safety, async/await, widget lifecycle, Riverpod state management
+- Building a **movie browser app** with the TMDB API (Dio + REST integration)
+- Studying for **IELTS** (targeting Band 7) 🎯
+
+---
+
+### 💻 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet" />
+</p>
