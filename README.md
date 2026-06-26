@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Tii (Sokty Heng)</h1>
 
-<h3 align="center">Mobile Developer | Flutter & SwiftUI</h3>
+<h3 align="center">Mobile Developer | Flutter and IOS</h3>
 
 <p align="center">
 📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 🎓 Computer Science Graduate, Assumption University of Thailand (ABAC)
@@ -17,14 +17,13 @@
 
 ### 🚀 About Me
 
-I'm a fresh CS graduate specializing in **cross-platform mobile development**, building apps with Flutter and native iOS apps with SwiftUI. I enjoy turning ideas into shipped products — from app store releases to startup MVPs — and I'm currently looking for opportunities as a **Mobile / Flutter Developer** in Phnom Penh.
+I'm a fresh CS graduate specializing in **cross-platform mobile development**, building apps with Flutter. I enjoy turning ideas into shipped products — from app store releases to startup MVPs — and I'm currently looking for opportunities as a **Mobile / Flutter Developer** in Phnom Penh.
 
 ---
 
 ### 🛠️ Currently Building
 
-**🏠 NestAbroad** — *A student housing platform connecting international students with landlords*
-Working on product, growth, and pitch strategy for this early-stage startup.
+SplitSnap — A receipt-scanning bill-splitting iOS app, built natively with SwiftUI, Supabase, and the Vision framework
 
 ### 📱 Featured Projects
 
@@ -33,7 +32,6 @@ Working on product, growth, and pitch strategy for this early-stage startup.
 | **SkillSync** | Skill-sharing platform, published on Google Play | Flutter, Firebase, Microsoft OAuth |
 | **VanGo** | Ride/booking app, published on Google Play | Flutter, Firebase, Stripe, Google Maps |
 | **SplitSnap** | iOS expense-splitting app | SwiftUI, Supabase, Google OAuth |
-| **Taxi Rental System** | Luxury-themed booking app | Flutter, Riverpod, go_router |
 
 ---
 
@@ -41,7 +39,6 @@ Working on product, growth, and pitch strategy for this early-stage startup.
 
 - Refreshing **Flutter** fundamentals — Dart null safety, async/await, widget lifecycle, Riverpod state management
 - Building a **movie browser app** with the TMDB API (Dio + REST integration)
-- Studying for **IELTS** (targeting Band 7) 🎯
 
 ---
 
