@@ -59,10 +59,5 @@ SplitSnap — A receipt-scanning bill-splitting iOS app, built natively with Swi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoktyHeng&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoktyHeng&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SoktyHeng&color=blueviolet" />
 </p>
