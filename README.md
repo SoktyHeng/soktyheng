@@ -1,8 +1,8 @@
 [README.md](https://github.com/user-attachments/files/29372272/README.md)
 
-<h1 align="center">👋 Hi, I'm Tii (Sokty Heng)</h1>
+<h1 align="center">👋 Hi, I'm Sokty Heng</h1>
 
-<h3 align="center">Mobile Developer | Flutter and IOS</h3>
+<h3 align="center">Junior AI and Software Engineer</h3>
 
 <p align="center">
 📍 Phnom Penh, Cambodia &nbsp;|&nbsp; 🎓 Computer Science Graduate, Assumption University of Thailand (ABAC)
@@ -39,7 +39,7 @@ SplitSnap — A receipt-scanning bill-splitting iOS app, built natively with Swi
 
 - Refreshing **Flutter** fundamentals — Dart null safety, async/await, widget lifecycle, Riverpod state management
 - Building a **movie browser app** with the TMDB API (Dio + REST integration)
-
+- Integrating LLMs via REST APIs (prompt design, request/response handling, streaming)
 ---
 
 ### 💻 Tech Stack
